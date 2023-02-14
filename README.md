@@ -15,9 +15,10 @@
 
 
 
-## How to Run Program 
 
-Explain here how you would run the program and what files need to be available. 
+## Description
+
+This program was made as practice using GitHub by creating a sample repository. Explain here how you would run the program and what files need to be available. 
 ```text
 Hello_World/
 └── 
@@ -26,6 +27,12 @@ Hello_World/
     │── filename1.csv
     │── examples.html
    
+```
+
+## How to Run Program
+
+```
+
 ```
 
 ## Files Used 
