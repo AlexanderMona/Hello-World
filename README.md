@@ -11,16 +11,16 @@
 
 ## Project Title
 
-*Alexander Mona Hello-World Sample* [^1]
-
-[^1]: This is my first time using GitHub so bear with me!
+*Alexander Mona Hello-World Sample* 
 
 
 
 
 ## Description
 
-This program was made as practice using GitHub by creating a sample repository. Explain here how you would run the program and what files need to be available. 
+This program was made as practice using GitHub by creating a sample repository [^1].
+
+[^1]: This is my first time using GitHub so bear with me! Explain here how you would run the program and what files need to be available. 
 
 
 ## How to Run Program
