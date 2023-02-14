@@ -11,7 +11,9 @@
 
 ## Project Title
 
-*Alexander Mona Hello-World Sample*
+*Alexander Mona Hello-World Sample* [^1]
+
+[^1]: This is my first time using GitHub so bear with me!
 
 
 
@@ -19,6 +21,10 @@
 ## Description
 
 This program was made as practice using GitHub by creating a sample repository. Explain here how you would run the program and what files need to be available. 
+
+
+## How to Run Program
+
 ```text
 Hello_World/
 └── 
@@ -27,12 +33,6 @@ Hello_World/
     │── filename1.csv
     │── examples.html
    
-```
-
-## How to Run Program
-
-```
-
 ```
 
 ## Files Used 
