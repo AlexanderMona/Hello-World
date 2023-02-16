@@ -25,7 +25,7 @@ This program was made as practice using GitHub by creating a sample repository[^
 
 ## How to Run Program
 
-When you go to my profile, and click the Hello-World repository, you can access the README.md
+When you go to my profile, and click the Hello-World repository, you can access the **README.md**
 ```text
 Hello_World/
 └── 
@@ -44,7 +44,7 @@ Hello_World/
 ## About Me
 
 - I'm a sophomore at the University of Iowa 
-- Studying BAIS and Management with a music minor
+- Studying ***BAIS and Management** with a music minor
 - Looking forward to learning more about coding and GitHub!
 - Here are some links to learn more about me:
 - [My LinkedIn](https://www.linkedin.com/in/alexander-mona/)
