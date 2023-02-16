@@ -18,9 +18,9 @@
 
 ## Description
 
-This program was made as practice using GitHub by creating a sample repository [^1].
+This program was made as practice using GitHub by creating a sample repository[^1]. I'm excited to start using GitHub for my analytics career going forward!
 
-[^1]: This is my first time using GitHub so bear with me! Explain here how you would run the program and what files need to be available. 
+[^1]: This is my first time using GitHub so bear with me!
 
 
 ## How to Run Program
