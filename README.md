@@ -25,6 +25,7 @@ This program was made as practice using GitHub by creating a sample repository[^
 
 ## How to Run Program
 
+When you go to my profile, and click the Hello-World repository, you can access the README.md
 ```text
 Hello_World/
 └── 
@@ -37,20 +38,17 @@ Hello_World/
 
 ## Files Used 
 
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
-- URL links to files - example here:
-
-
+- [Hello World Reference](https://github.com/kristinearens/Hello_World)
+- [Syntax Reference](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
   
 ## About Me
 
 - I'm a sophomore at the University of Iowa 
 - Studying BAIS and Management with a music minor
 - Looking forward to learning more about coding and GitHub!
+- Here are some links to learn more about me:
+- [My LinkedIn](https://www.linkedin.com/in/alexander-mona/)
+- [Instagram](instagram.com/itsalexmona)
 
 ## Versioning
 
