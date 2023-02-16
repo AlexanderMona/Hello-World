@@ -48,7 +48,7 @@ Hello_World/
 - Looking forward to learning more about coding and GitHub!
 - Here are some links to learn more about me:
 - [My LinkedIn](https://www.linkedin.com/in/alexander-mona/)
-- [Instagram](instagram.com/itsalexmona)
+- [Instagram](https://www.instagram.com/itsalexmona/)
 
 ## Versioning
 
