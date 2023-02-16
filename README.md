@@ -6,7 +6,7 @@
 - [DESCRIPTION](#Description)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
+- [ABOUT ME](#about-me)
 - [VERSIONING](#versioning)
 
 ## Project Title
@@ -46,11 +46,12 @@ Hello_World/
 
 
   
-## Additional Documentation
+## About Me
 
-No additional documentation at this time.  Here is some **BOLD** text 
-
+- I'm a sophomore at the University of Iowa 
+- Studying BAIS and Management with a music minor
+- Looking forward to learning more about coding and GitHub!
 
 ## Versioning
 
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
+This is currently the 1.0 of my Hello-World as I am delving into the GitHub code and syntax.
