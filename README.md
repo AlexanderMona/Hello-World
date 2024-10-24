@@ -43,8 +43,8 @@ Hello_World/
   
 ## About Me
 
-- I'm a sophomore at the University of Iowa 
-- Studying **Business Analytics & Information Systems** and **Management** with a music minor
+- I'm a senior at the University of Iowa 
+- Studying **Business Analytics & Information Systems** and **Marketing** with a music minor
 - Looking forward to learning more about coding and GitHub!
 - Here are some links to learn more about me:
 - [My LinkedIn](https://www.linkedin.com/in/alexander-mona/)
